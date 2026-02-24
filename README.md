@@ -1,3 +1,5 @@
+![](logo_minimal.png) 
+
 # FastAV - Modern High-Performance Antivirus Scanner
 
 ![FastAV](https://img.shields.io/badge/FastAV-v1.2.5-blueviolet)
