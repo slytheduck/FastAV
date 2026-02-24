@@ -1,9 +1,8 @@
 [Desktop Entry]
-Version=1.2.5
 Name=FastAV                
 Comment=GUI interface for ClamAV with some optimizations
 Comment[it]=Interfaccia per ClavAV con alcune ottimizzazioni
 Exec=/usr/local/bin/fastav             
 Type=Application
 Icon=$HOME/Scripts/Antivirus/FastAV_v1.2.5/logo.png
-Categories=Qt;Antivirus;
+Categories=Qt;Utility;
