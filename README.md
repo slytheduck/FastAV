@@ -1,4 +1,4 @@
-![](logo_minimal.png) 
+![](logo.png) 
 
 # FastAV - Modern High-Performance Antivirus Scanner
 
